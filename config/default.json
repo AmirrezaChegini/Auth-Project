@@ -1,0 +1,7 @@
+{
+    "app-name": "Auth-Project",
+    "version": "1.0.0",
+    "port": "8585",
+    "db_address": "mongodb://127.0.0.1:27017/Auth_Project_DB",
+    "jwt_key": "n24k2nb42342387xnkh890acla0s9asdx2z243x6tasz"
+}
